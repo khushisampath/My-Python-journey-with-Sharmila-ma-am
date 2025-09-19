@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Alice",
+        "age":25,
+        "city":"Boston",
+        "age_group":"Young"
+    },
+    {
+        "id":2,
+        "name":"Bob",
+        "age":30,
+        "city":"Los Angeles",
+        "age_group":"Old"
+    },
+    {
+        "id":3,
+        "name":"Charlie",
+        "age":35,
+        "city":"Chicago",
+        "age_group":"Old"
+    },
+    {
+        "id":4,
+        "name":"Diana",
+        "age":28,
+        "city":"San Francisco",
+        "age_group":"Young"
+    }
+]
